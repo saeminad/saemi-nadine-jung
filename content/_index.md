@@ -17,19 +17,13 @@ sections:
 
   - block: markdown
     content:
-      title: 'Researcher · Writer · Speaker'
+      title: '📚 My Research'
       text: |-
-        **PhD Candidate at Simon Fraser University’s School of Communication**
+        I study the intersections of **technology, media, education, and society**, with a particular interest in **AI, data, platforms, power, and public life**.
 
-        **Knowledge Mobilization Link Fellow ’26 · CERi Fellow ’23**
+        My work brings together research, writing, and public engagement to examine how technological and media systems shape culture, institutions, and everyday life.
 
-        **Technology × Media × Education × Society**
-
-        with **AI, data, platforms, power, and public life** as recurring themes.
-
-        [Explore My Research](/publications/)
-
-        [Work With Me / Invite Me to Speak](/contact/)
+        **Researcher · Writer · Speaker**
     design:
       columns: '1'
 ---
