@@ -19,37 +19,37 @@ sections:
       text: |-
         How artificial intelligence is changing knowledge, work, creativity, education, and everyday life.
     design:
-      columns: '1'
+      columns: '1/2'
 
   - block: markdown
     content:
       title: 'Technology & Power'
       text: |-
-        Examining the relationships between technology, platforms, institutions, power, and inequality.
+        How platforms and technological systems redistribute power, shape institutions, and produce new forms of inequality.
     design:
-      columns: '1'
+      columns: '1/2'
 
   - block: markdown
     content:
       title: 'Education & Knowledge'
       text: |-
-        Exploring how technologies transform teaching, learning, expertise, and the production and circulation of knowledge.
+        How technologies transform teaching, learning, expertise, and the production and circulation of knowledge.
     design:
-      columns: '1'
+      columns: '1/2'
 
   - block: markdown
     content:
       title: 'Information & Trust'
       text: |-
-        Thinking about information, media, trust, misinformation, and the conditions that shape public knowledge.
+        How information environments, media systems, and emerging technologies shape what we know—and what we trust.
     design:
-      columns: '1'
+      columns: '1/2'
 
   - block: markdown
     content:
       title: 'Critical Margin'
       text: |-
-        A space for critical reflections on the assumptions, exclusions, and power relations embedded in technological and social systems.
+        Critical reflections on the assumptions, exclusions, and power relations embedded in technological and social systems.
     design:
-      columns: '1'
+      columns: '1/2'
 ---
