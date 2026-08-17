@@ -21,7 +21,7 @@ sections:
       text: |-
         I study the intersections of **technology, media, education, and society**, with a particular interest in **AI, data, platforms, power, and public life**.
 
-        My work brings together research, writing, and public engagement to examine how technological and media systems shape culture, institutions, and everyday life.
+        At the core of my research is a broader question: **How do technologies reshape power, knowledge, labor, and public institutions—and whose experiences, voices, and forms of labor become (in)visible in the process?**
 
         **Researcher · Writer · Speaker**
     design:
